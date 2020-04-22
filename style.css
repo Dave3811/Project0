@@ -1,17 +1,13 @@
 .topics  {
-    text-decoration: none;
     font-size: 40px;
-    display: inline-block;
-    color: whitesmoke;
-    height: auto;
-    width: auto;
-    text-align: center;
-    padding-right: 30px ;
+    display: inline;
+    color: #4d0000;
+    padding-right: 30px;
     padding-left:30px;
-
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.topics:hover {
+.TITLES1:hover {
     background-color: #4d0000;
 }
  
@@ -21,7 +17,7 @@ div {
     height: auto;
     background-color: #b30000;
     line-height: auto;
-    
+
 }
 
 #top1 {
@@ -29,7 +25,38 @@ div {
     padding-right: 17px;
 }
 
-h1 {
+#title {
     padding-left: 17px;
     font-size: 50px;
+    font-weight: bold;
+
 }
+
+
+#title0 {
+    font-size: 50px;
+    margin-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #b30000;
+    margin: none;
+    padding: none;
+    text-decoration-color: #b30000;
+    text-decoration: underline;
+}
+
+
+.info {
+    margin-left:60px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#myself {
+    border-radius: 25%;
+    height: 17%;
+    width: 17%;
+    align-self: start;
+    position: relative;
+    left: 1500px;
+}
+
