@@ -1,9 +1,6 @@
 .topics  {
     font-size: 40px;
-    display: inline;
     color: #4d0000;
-    padding-right: 30px;
-    padding-left:30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -17,6 +14,7 @@ div {
     height: auto;
     background-color: #b30000;
     line-height: auto;
+    margin-top: 55px;
 
 }
 
@@ -58,5 +56,9 @@ div {
     align-self: start;
     position: relative;
     left: 1500px;
+    top: 500px;
 }
+
+
+
 
